@@ -39,7 +39,7 @@
                 {
                     "name": "",
                     "id": "299f281f-ba55-45f3-a625-30ce19df5170",
-                    "path": "<DualShockGamepad>/buttonSouth",
+                    "path": "<Gamepad>/leftShoulder",
                     "interactions": "",
                     "processors": "",
                     "groups": "Controller",
@@ -177,7 +177,7 @@
             "bindingGroup": "Controller",
             "devices": [
                 {
-                    "devicePath": "<DualShockGamepad>",
+                    "devicePath": "<Gamepad>",
                     "isOptional": false,
                     "isOR": false
                 }
